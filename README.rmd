@@ -16,13 +16,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Modelling the relationship between body mass and culmen depth in Gentoo Penguins
 
-The attached report (RMD file) will guide you step-by-step through data visualisation for the Palmer Penguins dataset. The report will contain information on how to load in the relevant functions and data, clean the data, make a model, run a statistical test, create a figure for the model, and save it appropriately. 
+The RMD file located in the file "src" will guide you step-by-step through data visualisation for the Palmer Penguins dataset. The report will contain information on how to load in the relevant functions and data, clean the data, make a model, run a statistical test, create a figure for the model, and save it appropriately. 
 
 Ultimately, the relationship between body mass and culmen depth will be modelled using ANOVA for the Gentoo species of penguin from the dataset.  
 
 Files should appear as below:
 
-- penguin-assessment/
     - data_raw/
         - penguins_raw.csv
     - data_clean/
