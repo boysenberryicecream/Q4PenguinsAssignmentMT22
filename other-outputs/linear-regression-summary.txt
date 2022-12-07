@@ -1,0 +1,25 @@
+
+Call:
+lm(formula = culmen_depth_mm ~ body_mass_g, data = penguins_culmen)
+
+Residuals:
+     Min       1Q   Median       3Q 
+-1.77572 -0.36559  0.02464  0.44942 
+     Max 
+ 2.07437 
+
+Coefficients:
+            Estimate Std. Error t value
+(Intercept) 7.877527   0.627215   12.56
+body_mass_g 0.001400   0.000123   11.38
+            Pr(>|t|)    
+(Intercept)   <2e-16 ***
+body_mass_g   <2e-16 ***
+---
+Signif. codes:    0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’
+  0.1 ‘ ’ 1
+
+Residual standard error: 0.6847 on 121 degrees of freedom
+Multiple R-squared:  0.5171,	Adjusted R-squared:  0.5131 
+F-statistic: 129.6 on 1 and 121 DF,  p-value: < 2.2e-16
+
