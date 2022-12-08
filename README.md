@@ -1,11 +1,4 @@
----
-title: "README"
-author: "Student No. 1336616"
-date: "06/12/2022"
-output: 
-  html_document:
-    theme: united
----
+
 # Q4PenguinsAssignmentMT22
 
 This is my answer to question 4 of the reproducible research assignment question for MBIOL year 3. 
