@@ -3,9 +3,6 @@
 
 This is my answer to question 4 of the reproducible research assignment question for MBIOL year 3. 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 # Modelling the relationship between body mass and culmen depth in Gentoo Penguins
 
