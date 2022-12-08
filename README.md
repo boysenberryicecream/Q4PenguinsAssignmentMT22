@@ -24,8 +24,9 @@ Files should appear as below:
         - ANOVA-summary.txt
         - linear-regression-summary.txt
         - package-versions.txt
-    - src
-        - penguin_analysis.rmd
-    - README.rmd
+    
+    - penguin_analysis.rmd
+    - README.md
+    - LICENCE
 
 Credits to Lydia France for the original tutorial for this, found at [LFrancePenguinProject](https://github.com/LydiaFrance/PenguinProject) 
